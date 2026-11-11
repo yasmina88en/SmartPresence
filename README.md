@@ -72,22 +72,22 @@ Architecture en trois tiers, composée de trois applications :
 ## Captures d'écran
 
 ### Connexion
-![Connexion](screenshots/01-connexion.png)
+![Connexion](screenshots/connexion.png)
 
 ### Administrateur
-![Dashboard administrateur](screenshots/02-admin-dashboard.png)
-![Import de l'emploi du temps](screenshots/03-admin-import-emploi-du-temps.png)
-![Import des étudiants](screenshots/04-admin-import-etudiants.png)
-![Historique de présence](screenshots/05-admin-historique-presence.png)
+![Dashboard administrateur](screenshots/admin-dashboard.png)
+![Import de l'emploi du temps](screenshots/admin-import-emploi-du-temps.png)
+![Import des étudiants](screenshots/admin-import-etudiants.png)
+![Historique de présence](screenshots/admin-historique-presence.png)
 
 ### Professeur
-![Tableau de bord professeur](screenshots/07-prof-tableau-de-bord.png)
-![QR code dynamique](screenshots/09-prof-qr-code.png)
-![Reconnaissance faciale](screenshots/10-prof-reconnaissance-faciale.png)
+![Tableau de bord professeur](screenshots/prof-tableau-de-bord.png)
+![QR code dynamique](screenshots/prof-qr-code.png)
+![Reconnaissance faciale](screenshots/prof-reconnaissance-faciale.png)
 
 ### Étudiant
-![Tableau de bord étudiant](screenshots/11-etudiant-tableau-de-bord.png)
-![Configuration Face ID](screenshots/12-etudiant-face-id.png)
+![Tableau de bord étudiant](screenshots/etudiant-tableau-de-bord.png)
+![Configuration Face ID](screenshots/etudiant-face-id.png)
 
 ## Installation
 
